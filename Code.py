@@ -79,7 +79,7 @@ def show_status():
 def intro():
     clear()
     play_sound("sounds/intro.mp3")
-    typewriter("🌟 THE LOST KINGDOM 🌟")
+    typewriter(" THE LOST KINGDOM ")
     player["name"] = input("Enter your name, explorer: ")
 
     typewriter(f"\nWelcome {player['name']}!")
@@ -188,13 +188,13 @@ def random_event():
 
 def win():
     play_sound("sounds/win.mp3")
-    typewriter("\n🏆 YOU WON THE GAME!!!")
+    typewriter("\n YOU WON THE GAME!!!")
     restart()
 
 
 def lose():
     play_sound("sounds/lose.mp3")
-    typewriter("\n💀 GAME OVER:)")
+    typewriter("\n GAME OVER:)")
     restart()
 
 
