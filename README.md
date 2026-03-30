@@ -21,8 +21,6 @@ Multiple Endings
 
 Save and Load Game
 
-Sound Effects (Optional)
-
 Typewriter Animation
 
 Replay Option
