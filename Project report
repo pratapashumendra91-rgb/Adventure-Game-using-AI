@@ -1,0 +1,51 @@
+Interactive "Choose Your Own Adventure" Game
+Project Report
+
+Student Name: Ashumendra Pratap Singh
+Course: B.Tech CSE Core
+University: VIT Bhopal University
+Year: 2029
+ 
+Abstract
+This project presents an advanced interactive adventure game developed using Python. The game allows users to explore multiple story paths, manage health, collect inventory items, and experience random events. The project demonstrates fundamental Artificial Intelligence concepts such as intelligent agents, decision-making, and state space representation.
+Introduction
+Interactive games are an engaging way to learn programming and AI concepts. This project creates a text-based adventure game where players make decisions that influence the storyline and outcomes.
+Objectives
+•	Develop an interactive text-based game
+•	Implement AI-based decision making
+•	Use Python programming concepts
+•	Implement save and load functionality
+•	Create multiple game endings
+Features
+•	Interactive Story Gameplay
+•	Health System
+•	Inventory System
+•	Random Events
+•	Multiple Locations
+•	Multiple Endings
+•	Save and Load Game
+•	Sound Effects
+•	Typewriter Animation
+Technologies Used
+•	Python
+•	JSON
+•	Random Module
+•	OS Module
+•	Time Module
+AI Concepts Used
+•	Intelligent Agents
+•	State Space Representation
+•	Rule-Based Decision Making
+•	Goal-Based Agent
+•	Search Problem
+•	Randomized Behavior
+System Design
+The system is designed using modular functions for each game scene. The player state is stored using a dictionary, and game progression is controlled through location-based logic.
+Future Scope
+•	GUI-based game
+•	AI-based enemy system
+•	NPC characters
+•	Puzzle system
+•	Open world map
+Conclusion
+This project successfully demonstrates the use of Python programming and AI concepts to create an interactive adventure game. The system is modular, scalable, and suitable for further enhancement.
